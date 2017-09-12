@@ -1,4 +1,4 @@
 <?php
-echo "This is test doucments";
+echo "This is test doucments moved";
 
 ?>
