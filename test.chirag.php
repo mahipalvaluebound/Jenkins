@@ -1,4 +1,4 @@
 <?php
 
- echo "New file is pushindsfdsg tzxczo tdsfasdasfest jenkfdfsdsdins";
+ echo "New file is  tzxczo tdsfasdasfest jenkfdfsdsdins";
 ?>
