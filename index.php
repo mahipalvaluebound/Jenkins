@@ -1,4 +1,4 @@
 <?php
-echo "This in new sertriesasdasdsadsfsaddsfdsasdsadsdadasdsadsasfdsa";
+echo "This in new sertriasdsa";
 
 ?>
