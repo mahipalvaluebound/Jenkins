@@ -1,4 +1,4 @@
 <?php
 
- echo "this is chnages another site";
+ echo "this is chnages another sites";
 ?>
