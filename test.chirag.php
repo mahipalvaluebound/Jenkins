@@ -1,4 +1,4 @@
 <?php
 
- echo "This is test changes.";
+ echo "This is test changes for site.";
 ?>
