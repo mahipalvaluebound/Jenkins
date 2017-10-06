@@ -1,4 +1,4 @@
 <?php
 
- echo "This is test chnages for test.";
+ echo "This is test chnages for testings.";
 ?>
